@@ -2,6 +2,9 @@
 
 
 
+
+<img src="report_16075921.gif" width="150">
+
 <b>Overview</b>
 <br />
 <br />
@@ -9,6 +12,9 @@
 <br />
 <br />
 <br />
+<br />
+
+<img src="dartboard_14357078.gif" width="150">
 
 <b>Objectives</b>
 <br />
@@ -21,6 +27,10 @@
 - Test and Verify IPv6 End-to-End Connectivity
 <br />
 <br />
+<br />
+
+
+<img src="exchange_17110512.gif" width="150">
 
 <b>Tools & Equipment</b>
 - Cisco 1941 Router
@@ -32,6 +42,9 @@
 - Windows Command Prompt
 <br />
 <br />
+<br />
+<br />
+
 
 <b>Network Topology</b>
 <br />
@@ -39,6 +52,11 @@
 <img width="609" height="137" alt="image" src="https://github.com/user-attachments/assets/77b5680d-ada1-4228-8daf-63d9efe7c65f" />
 <br />
 <br />
+<br />
+<br />
+
+
+<img src="gear_18998345.gif" width="150">
 
 <b>Key Configurations Performed</b>
 <br />
@@ -57,6 +75,9 @@
   <br />
   <br />
 
+
+<img src="personal-data_19002109.gif" width="150">
+
 <b>Security Configurations</b>
 <br />
 - Configured SSH-only access on the router
@@ -71,6 +92,7 @@
 
 
 <img src="communications_14164989.gif" width="150">
+
 <b>Testing & Verification</b>
 <br />
 - Verified IPv4 connectivity using ping between all devices
@@ -79,6 +101,9 @@
 - Used CLI commands to validate configurations
 <br />
 <br />
+
+
+<img src="invention_18996943.gif" width="150">
 
 <b>What I Learned</b>
 <br />
